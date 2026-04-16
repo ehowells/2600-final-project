@@ -1,6 +1,7 @@
 The goal of this project is to identify the relationship between various lifestyle choices and their impacts on sleep and health conditions, specifically determining which variables have the greatest influence on whether an individual develops a sleep disorder such as insomnia or sleep apnea. We will perform exploratory data analysis on the Sleep & Lifestyle Study dataset to find correlations between features such as age, quality of sleep, stress level, body mass index (BMI), among others, and the presence of common sleep disorders. To identify such trends, we will use the following techniques:
 
 Logistic Regression, which will be used to quickly predict the presence of a sleep disorder in an easily interpretable manner
+
 Random Forest or Gradient Boosting, to improve accuracy in capturing non-linear relationships and to gain more insight into specific sleep disorders (i.e. determining what causes a person to develop sleep apnea versus insomnia)
 
 By comparing the performance of the logistic regression with more complex ensemble methods, we will be able to validate our findings and ensure that our results are both accurate and explainable. Together, these techniques will give a clearer picture of how one’s lifestyle habits influence sleep health, potentially offering a framework for preventative behavioral changes.
